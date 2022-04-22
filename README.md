@@ -1,6 +1,14 @@
 # python_webscreenshots
 A simple python3 script to capture website screenshots
 
+
+Tested on ubuntu 20, and it require a gui desktop.
+Requirements:
+
+python3-pip
+apt install python3-selenium
+apt install firefox-geckodriver
+
 change the url's in de sitelist list.
 
 ```
